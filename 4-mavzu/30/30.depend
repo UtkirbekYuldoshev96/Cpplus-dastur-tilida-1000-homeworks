@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673117484 source:d:\foundation\dastur.uz\4-mavzu\30\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+
