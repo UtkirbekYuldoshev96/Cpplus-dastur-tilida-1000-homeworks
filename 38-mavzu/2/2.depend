@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702489524 source:d:\foundation\dastur.uz\38-mavzu\2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
